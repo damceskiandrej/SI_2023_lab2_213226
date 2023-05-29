@@ -1,12 +1,13 @@
-# Андреј Дамчески, бр. на индекс 213226
- # Control Flow Graph 
+# Втора лабораториска вежба по Софтверско инженерство
+## Андреј Дамчески, бр. на индекс 213226
+ ### Control Flow Graph 
  
 ![SILab2 drawio](https://github.com/damceskiandrej/SI_2023_lab2_213226/assets/127520269/6e40ac24-69f3-465d-ba13-c7450009a286)
 
- # Цикломатска комплексност 
+ ### Цикломатска комплексност 
  Цикломатската комплексност на овој код е 11, истата ја добив преку формулата (E-N)+2, каде E означува вкупниот број на ребра, а N е вкупниот број на јазли, односно
  (38-29)+2 = 11.
- # Тест случаи според критериумот Every Branch 
+ ### Тест случаи според критериумот Every Branch 
  
  ![EveryBranch](https://github.com/damceskiandrej/SI_2023_lab2_213226/assets/127520269/e296eb4e-4654-4e26-aef8-42f5facb9a01)
 
@@ -47,7 +48,7 @@
 ![test5](https://github.com/damceskiandrej/SI_2023_lab2_213226/assets/127520269/8dcc41a2-5e7e-4a31-af5c-c667f7b5cf9a)
 
 
- # Тест случаи според критериумот Multiple Condition 
+ ### Тест случаи според критериумот Multiple Condition 
 ![multiple condition](https://github.com/damceskiandrej/SI_2023_lab2_213226/assets/127520269/e91113ed-0506-4890-a1e8-0e460ebd1a20)
 
  
